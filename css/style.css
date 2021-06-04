@@ -1,0 +1,12 @@
+h2 {
+    margin-top: 40px;
+}
+
+.lineselect select {
+    width: auto;
+    display: inline;
+}
+
+.ml-3 {
+    margin-left: 20px;
+}
